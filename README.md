@@ -1,6 +1,8 @@
 
 Blog-Dapp (DEV.to) clone on solidity(Goerli Testnet)
 
+Live link: https://devblog-harshbardhan20.vercel.app
+
 Frontend- Nextjs
 Blockchain Interaction- Ether.js
 etc
