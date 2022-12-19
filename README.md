@@ -9,7 +9,8 @@ etc
 
 Some screenshots-:
 
-![Screenshot 2022-12-19 042656](https://user-images.githubusercontent.com/86045544/208323873-354aecd6-3512-4b53-b7b0-87ee3563338b.png)
+![Screenshot 2022-12-19 171153](https://user-images.githubusercontent.com/86045544/208428443-188c2e3d-fd10-465a-9e76-a9291445f464.png)
 
 
-![Screenshot 2022-12-19 042557](https://user-images.githubusercontent.com/86045544/208323883-a43411fa-dd57-4efa-ab2a-10fb7b467cae.png)
+
+![Screenshot 2022-12-19 171135](https://user-images.githubusercontent.com/86045544/208428470-c7c7c5f7-b6e9-419c-979a-43c9dea5ea82.png)
