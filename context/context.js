@@ -1,6 +1,7 @@
 import { createContext, useEffect, useState } from "react";
 import { ethers } from "ethers";
 import { contractABI, contractAddress } from "../config";
+import { useRouter } from "next/router";
 
 export const appContext = createContext();
 
@@ -99,6 +100,7 @@ export const AppProvider = ({ children }) => {
     }
   };
 
+  const router = useRouter();
   const likePost = async (id) => {
     try {
       const provider = new ethers.providers.Web3Provider(ethereum);
@@ -112,6 +114,7 @@ export const AppProvider = ({ children }) => {
       setLoading(true);
       await transaction.wait();
       setLoading(false);
+      router.push("/");
     } catch (error) {
       console.log(error);
     }
